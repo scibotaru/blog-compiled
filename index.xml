@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Sergiu"s blog</title><link>https://blog.cibotaru.com/</link><description>Recent content on Sergiu"s blog</description><generator>Hugo -- 0.155.2</generator><language>en-gb</language><lastBuildDate>Wed, 04 Feb 2026 15:06:44 +0100</lastBuildDate><atom:link href="https://blog.cibotaru.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Blog Post</title><link>https://blog.cibotaru.com/posts/first-post/</link><pubDate>Wed, 04 Feb 2026 15:06:44 +0100</pubDate><guid>https://blog.cibotaru.com/posts/first-post/</guid><description>&lt;h1 id="welcome"&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;This is my first post on this blog. I&amp;rsquo;m excited to start sharing my thoughts and experiences here.&lt;/p&gt;
+&lt;h2 id="why-i-started-this-blog"&gt;Why I Started This Blog&lt;/h2&gt;
+&lt;p&gt;I wanted a place to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Document my learning journeys&lt;/li&gt;
+&lt;li&gt;Share knowledge with the community&lt;/li&gt;
+&lt;li&gt;Practice writing regularly&lt;/li&gt;
+&lt;li&gt;Build an online presence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="whats-next"&gt;What&amp;rsquo;s Next&lt;/h2&gt;
+&lt;p&gt;I plan to write about various topics including technology, programming, and personal development. Stay tuned for more posts!&lt;/p&gt;
+&lt;p&gt;Thanks for stopping by!&lt;/p&gt;</description></item><item><title>About</title><link>https://blog.cibotaru.com/about/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://blog.cibotaru.com/about/</guid><description>&lt;h1 id="about-me"&gt;About Me&lt;/h1&gt;
+&lt;p&gt;My name is Sergiu Cibotaru, born in Moldova, and now I live in The Netherlands since 2022. Married, father of 2 adorable kids.
+I love running, all sorts of DYI and experimentations. Stargazing is another passion. A handy man in general, and renovations is another hobby.
+I read books, or listen to them; preffering Science fiction, technology books, process improvements, psycology. Listen to podcasts when commuting.&lt;/p&gt;
+&lt;h2 id="what-i-write-about-intend-to"&gt;What I Write About (intend to)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Technology in general&lt;/li&gt;
+&lt;li&gt;Things I encounter in my day to day live&lt;/li&gt;
+&lt;li&gt;Personal projects and experiments&lt;/li&gt;
+&lt;li&gt;Tips and tutorials&lt;/li&gt;
+&lt;li&gt;Life experiences and reflections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My technology stack is mostly Microsoft based, with deep experience in on-premise Windows Server administration and architecture, Azure as my main cloud provider, Azure DevOps and GitHub as development platform. PowerShell is my tool of choice, Pyhon is an alternative. I also spend lots of my time on the #linux environment, mostly in the shell, with Docker and Kubernetes.&lt;/p&gt;</description></item></channel></rss>
